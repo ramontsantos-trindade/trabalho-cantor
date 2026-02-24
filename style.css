@@ -1,3 +1,11 @@
+body{
+
+    background-image: url(assets/03ae628-sabotage-rapper-foto-1280x720-1-1024x576.avif);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
 
 
 img{
@@ -10,5 +18,30 @@ h2{
     font-family: 'Times New Roman', Times, serif;
 
     font-size: large 700px;
+
+    
+
+}
+
+footer p{
+
+color: white;
+
+    padding: auto;
+    
+    text-align: center;
+}
+
+main p{
+
+    color: white;
+}
+
+
+h1{
+
+font-family: 'Times New Roman', Times, serif;
+
+font-size: large;
 
 }
