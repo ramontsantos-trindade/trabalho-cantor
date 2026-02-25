@@ -1,11 +1,6 @@
 body{
 
-    background-image: url(assets/03ae628-sabotage-rapper-foto-1280x720-1-1024x576.avif);
-    background-size: cover;
-    background-repeat: no-repeat;
-    height: 200px;
-
-    
+    background-color: darkkhaki;
 }
 
 
@@ -56,3 +51,7 @@ main h4{
 ;
 }
 
+body{
+text-align: center;
+
+}
